@@ -1,6 +1,6 @@
 = Emoji Test Love
 
-* http://github.com/coreyhaines/emoji_test_love
+* http://github.com/coreyhaines/emoji-test-love
 
 == DESCRIPTION:
 

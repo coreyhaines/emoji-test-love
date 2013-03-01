@@ -3,7 +3,7 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
-  gem.name          = "emoji_test_love"
+  gem.name          = "emoji-test-love"
   gem.version       = "1.0.0"
   gem.authors       = ["coreyhaines"]
   gem.email         = ["coreyhaines@gmail.com"]
