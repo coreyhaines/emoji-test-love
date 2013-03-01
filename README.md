@@ -18,6 +18,7 @@ In fact, the minitest code is actually just copied from there. Truth!
 
 Do you use minitest? You are in luck! Here's an example.
 
+```
   require 'minitest/autorun'
   require 'minitest/emoji'
 
@@ -40,11 +41,13 @@ Do you use minitest? You are in luck! Here's an example.
       skip "don't care!"
     end
   end
+```
 
-it you use RSpec, then we have a custom formatter for you
+if you use RSpec, then we have a custom formatter for you
 
-rspec --format RSpec::Emoji
-
+```
+  rspec --format RSpec::Emoji
+```
 
 == REQUIREMENTS:
 
