@@ -6,6 +6,10 @@
 
 Print out emoji for your test passes, fails, and skips. Whether you love Minitest or RSpec, we have amazing emoji love for you!
 
+Look how beautiful it is!
+
+![Emoji Test Love](https://www.evernote.com/shard/s229/sh/97a0dc89-2e37-45ec-b3a6-1f5b855d1472/4d0785384598651223a8de2f8369298b/res/1a5d53f7-d4cc-4d37-803b-1a12a53562f7/skitch.png)
+
 This is entirely based on [Tenderlove's](https://github.com/tenderlove) most awesome [minitest-emoji](https://github.com/tenderlove/minitest-emoji)
 
 In fact, the minitest code is actually just copied from there. Truth!
