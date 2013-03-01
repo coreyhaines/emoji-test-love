@@ -4,12 +4,12 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = "emoji-test-love"
-  gem.version       = "1.0.0"
+  gem.version       = "1.0.1"
   gem.authors       = ["coreyhaines"]
   gem.email         = ["coreyhaines@gmail.com"]
   gem.description   = %q{Make your test runs happier with emoji love. We don't mind if you use minitest or rspec. Love is Love! Based entirely on Aaron Patterson's awesome minitest-emoji.}
   gem.summary       = %q{Make your test runs happier with emoji love}
-  gem.homepage      = ""
+  gem.homepage      = "https://github.com/coreyhaines/emoji-test-love"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
