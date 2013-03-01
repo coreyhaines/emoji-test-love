@@ -4,7 +4,7 @@
 
 == DESCRIPTION:
 
-Print out emoji for your test passes, fails, and skips
+Print out emoji for your test passes, fails, and skips. Whether you love Minitest or RSpec, we have amazing emoji love for you!
 
 This is entirely based on [Tenderlove's](https://github.com/tenderlove) most awesome [minitest-emoji](https://github.com/tenderlove/minitest-emoji)
 
@@ -43,7 +43,7 @@ Do you use minitest? You are in luck! Here's an example.
   end
 ```
 
-if you use RSpec, then we have a custom formatter for you. Here's a sample spec file
+If you use RSpec, you are also in luck! We have a custom formatter for you. Here's a sample spec file.
 
 ```
   describe 'my amazing tests' do
@@ -66,8 +66,7 @@ if you use RSpec, then we have a custom formatter for you. Here's a sample spec 
     end
   end
 ```
-
-Then just rock out with our formatter
+Now just rock out with our formatter
 ```
   rspec --format RSpec::Emoji
 ```
