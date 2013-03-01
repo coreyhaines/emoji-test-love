@@ -10,6 +10,8 @@ This is entirely based on [Tenderlove's](https://github.com/tenderlove) most awe
 
 In fact, the minitest code is actually just copied from there. Truth!
 
+This was originally expanded as part of 2013's [Emulation March](http://programmingtour.blogspot.com/2013/02/emulation-march.html).
+
 == FEATURES/PROBLEMS:
 
 * See description
