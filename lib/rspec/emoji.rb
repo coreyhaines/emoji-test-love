@@ -3,11 +3,16 @@ module RSpec
   class Emoji < RSpec::Core::Formatters::BaseTextFormatter
     VERSION = '1.0.0'
 
+    GREEN_HEART   = "\u{1F49A} "
+    FIRE          = "\u{1f525} "
+    POOP          = "\u{1f4a9} "
+    BLUSHING_FACE = "\u{1f633} "
+
     DEFAULT = {
-      '.' => "\u{1F49A} ",
-      'E' => "\u{1f525} ",
-      'F' => "\u{1f4a9} ",
-      'S' => "\u{1f633} ",
+      '.' => GREEN_HEART,
+      'E' => FIRE,
+      'F' => POOP,
+      'S' => BLUSHING_FACE,
     }
 
     def example_passed(example)
