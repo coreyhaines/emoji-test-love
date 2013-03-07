@@ -1,3 +1,10 @@
+= Deprecated???
+
+It turns out that there is an even more awesome emoji test reporter out there! [Aaron Kromer's Emoji-RSpec](https://github.com/cupakromer/emoji-rspec). I'd recommend looking at that one. I'm contributing to that one to get minitest support, as well.
+
+Aaron's has an awesome number of different formatters. Lots of emoji love!
+
+
 = Emoji Test Love
 
 * http://github.com/coreyhaines/emoji-test-love
